@@ -11500,3 +11500,9 @@ html {
 .all-image {
   max-width: 23rem;
 }
+
+#camera_view {
+  transform: rotate(90deg);
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
