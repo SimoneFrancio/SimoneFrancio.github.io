@@ -11506,3 +11506,12 @@ html {
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
+
+#white-link {
+  color: white;
+}
+
+#telefono {
+  padding-top: 5rem;
+  text-align: center;
+}
